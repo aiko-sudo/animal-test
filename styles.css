@@ -854,16 +854,19 @@ body::-webkit-scrollbar {
     }
 }
 
+/* ========================================
+   移动端响应式优化
+   ======================================== */
+
 @media (max-width: 480px) {
     .container {
         padding: 10px;
     }
 
     .hero {
-        padding: 20px 15px;
+        padding: 15px 8px;
         height: 100vh;
         overflow: hidden;
-        box-sizing: border-box;
     }
 
     .hero-content {
