@@ -824,6 +824,61 @@ body::-webkit-scrollbar {
         padding: 32px 24px;
     }
 
+    .btn-secondary {
+        min-height: 52px;
+        padding: 16px 24px;
+    }
+
+    .animal-avatar {
+        width: 140px;
+        height: 140px;
+    }
+
+    .radar-chart-container {
+        max-width: 320px;
+    }
+}
+    .hero h1 {
+        font-size: 32px;
+    }
+
+    .tagline {
+        font-size: 18px;
+    }
+
+    .features {
+        gap: 16px;
+    }
+
+    .feature {
+        min-width: 100px;
+        padding: 16px;
+    }
+
+    .btn-primary {
+        padding: 18px 40px;
+        font-size: 16px;
+        min-height: 52px;
+    }
+
+    .question-card {
+        padding: 32px 24px;
+    }
+
+    .question-text {
+        font-size: 18px;
+    }
+
+    .option {
+        padding: 18px 24px;
+        font-size: 15px;
+        min-height: 52px;
+    }
+
+    .result-card {
+        padding: 32px 24px;
+    }
+
     .animal-avatar {
         width: 120px;
         height: 120px;
